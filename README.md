@@ -1,16 +1,15 @@
-## Hi there 👋
+# 💫 About Me:
+👨‍💻 About Me<br><br>I'm a technically driven computer science graduate and educator with hands-on teaching experience and a strong foundation in core CS principles. My current focus is on expanding my capabilities in software engineering, with a particular interest in AI-powered systems, full-stack web applications, and cross-platform mobile development.<br><br>👨‍🏫 Taught over 50 students in foundational courses including Introduction to Computer Science and Data Structures & Algorithms, emphasizing algorithmic thinking, time/space complexity, and problem decomposition.<br><br>🧠 Currently deepening my expertise in AI integration and exploring how modern tools like LLMs, automation APIs, and ML frameworks can enhance application capabilities.<br><br>💻 Building real-world projects in MERN stack (MongoDB, Express.js, React, Node.js) and Flutter for scalable web and mobile solutions.<br><br>🛠️ Freelancing on portfolio websites, landing pages, and informational systems for small businesses — with a focus on responsive design, performance optimization, and clean code architecture.<br><br>🚀 Proficient with Git, GitHub workflows, RESTful APIs, basic CI/CD practices, and containerization fundamentals (Docker).<br><br>🔍 Open to entry-level roles or internships in:<br><br>Full-Stack Web Development<br><br>Mobile App Development (Flutter)<br><br>AI/ML Engineering (junior level)<br><br>Technical Teaching/Content Creation<br><br>I’m always eager to contribute to meaningful projects, work with scalable architectures, and grow in a high-performing development team.<br><br>
 
-<!--
-**FNegm/FNegm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/fares-negm-999a0b1b5/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fares.negm@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=FNegm&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=FNegm&theme=dark&hide_border=false)<br/>
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
